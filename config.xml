@@ -3,14 +3,14 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "whatsapk.app"
+        id          = "mtd.my.id"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. whatsapk.app</name>
+    <name>ТЕСТ. mtd.my.id</name>
 
     <description>
-        BLOG AND PUBLIC SHARING FORUMS
+        ALL IN ONE FREE SEO TOOLS
     </description>
 
     <author>Tadapp</author>
